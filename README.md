@@ -4,14 +4,6 @@
 
 Ricreiamo una TodoList seguendo il layout in allegato. 
 
-### Obiettivo
-
-- Creare un nuovo progetto HTML
-- Inizializzare la cartella come repository Git
-- Creare un file `README.md` con la descrizione del lavoro
-- Eseguire il **primo commit e push**
-- Procedere in modo **incrementale**, aggiornando il progetto man mano
-- Trovare le immagini autonomamente online
 
 ##  Tecnologie usate
 
