@@ -74,3 +74,46 @@ body {
   margin-left: -25px;
   margin-right: -25px;
 }
+
+ul {
+  list-style-type: none;
+}
+
+
+.list-box {
+  margin-left: 70px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-top: 30px;
+}
+
+.task-box .box {
+  font-weight: bold;
+}
+
+.task-box ul li {
+  margin-left: 6px;
+}
+
+
+.button {
+  background-color: blue;
+  width: 100px;
+  border-radius: 15px;
+  text-align: center;
+  padding: 8px;
+  color: white;
+  margin-left: 50px;
+}
+
+.lista-2 {
+  padding-top: 20px;
+}
+
+.letter {
+  padding-top: 10px;
+}
+
+.today-list {
+  margin-left: 6px;
+}
+
