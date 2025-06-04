@@ -20,7 +20,7 @@ body {
   background-color: #FFFFFF;
   height: 560px;
   margin-bottom: 10px;
-  border-radius: .9%;
+  border-radius: 10px;
   padding: 25px;
 }
 
@@ -38,10 +38,39 @@ body {
 .add-task {
   background-color: blue;
   width: 100px;
-  border-radius: 10%;
+  border-radius: 8px;
   text-align: center;
   padding: 10px;
   color: white;
   margin-left: 50px;
 }
 
+.add-section {
+  background-color: red;
+  width: 130px;
+  border-radius: 8px;
+  text-align: center;
+  padding: 9px;
+  color: white;
+  margin-left: 158px;
+  position: relative;
+  margin-top: -39px;
+  background-color: white;
+  color: #D9DEDC;
+  border: 2px solid #D9DEDC;
+}
+
+/* .line { 
+  position: relative;
+  left: -25px;
+  height: 2px;
+  background-color: red;
+  margin: 15px auto;
+} */
+
+.line {
+  padding: 8px;
+  border-bottom: 3px solid #F8F8F8;
+  margin-left: -25px;
+  margin-right: -25px;
+}
