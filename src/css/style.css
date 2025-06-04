@@ -4,9 +4,44 @@
   box-sizing: border-box;
 }
 
+
+header {
+  background-color: #FFFFFF;
+  padding: 10px;
+}
+
+body {
+  background-color: #F6F8FA;
+}
+
 #container {
-  max-width: 1100px;
-  margin: 0 auto;
-  background-color: red;
+  max-width: 1250px;
+  margin: 50px auto;
+  background-color: #FFFFFF;
+  height: 560px;
+  margin-bottom: 10px;
+  border-radius: .9%;
+  padding: 25px;
+}
+
+
+.img-box h1{
+  font-family:Arial, Helvetica, sans-serif;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.img-box img {
+   vertical-align: middle;
+}
+
+.add-task {
+  background-color: blue;
+  width: 100px;
+  border-radius: 10%;
+  text-align: center;
+  padding: 10px;
+  color: white;
+  margin-left: 50px;
 }
 
